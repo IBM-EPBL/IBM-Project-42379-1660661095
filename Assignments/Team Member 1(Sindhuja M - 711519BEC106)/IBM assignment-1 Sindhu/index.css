@@ -1,0 +1,265 @@
+.head
+{
+    display: flex;
+    margin-left: 200px;  
+}
+.name
+{
+    margin-left: 12px;
+    padding: 5px;
+}
+.container1
+{
+    border: 1px solid rgb(109, 219, 35);
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 5px 10px 8px black;
+}
+.con1
+{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: rgb(121, 224, 37);
+    box-shadow: 2px 10px 8px black;
+}
+.con2
+{
+    justify-content: center;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 5px 10px 8px black;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    background-color: rgb(94, 224, 54);
+    margin-bottom: 30px;
+}
+.image
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.hh
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 20px;
+}
+.hhl
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.ht
+{
+    display: flex;
+    padding-top: 50px;
+    margin-left: 20px;
+
+}
+.img
+{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 8px black;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 23px;
+    margin-right: 50px;
+    transition: 850ms;
+}
+.hire 
+{
+    margin-left: 50px;
+    box-shadow: 10px 5px 10px black;
+}
+.detail
+{
+    margin: 50px;
+}
+.resume
+{
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding-bottom: 60px;
+    border-radius: 20px;
+}
+.download
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    color: black;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 3px 5px 10px black;
+    transition: 750ms;
+
+}
+.hire
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 25px;
+    color: black;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 750ms;
+    box-shadow: 3px 5px 10px black;
+    
+}
+.bbb
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black
+}
+
+.zi2
+{
+    padding-left: 20px;
+    margin-top: 25px;
+    transition: 500ms;
+}
+.zii2
+{
+    color: black;
+}
+.am
+{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10px;
+    box-shadow: 5px 10px 8px black;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    background-color: white;
+    transition: 1s;
+    margin-top: 30px;
+}
+.ps
+{
+    border: 1px solid rgb(255, 253, 253);
+    margin-left: 90px;
+    margin-right: 90px;
+    box-shadow: 5px 10px 8px black;
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    transition: 1s;
+}
+.para
+{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.ab
+{
+    margin-right: 45px;
+    margin-bottom: 30px;
+}
+.left1
+{
+    text-align: center;
+    margin-left: 40px;
+}
+.right1
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.left2
+{
+    text-align: center;
+}
+.right2
+{
+    text-align: center;
+}
+.bar
+{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.r2
+{
+    padding-right: 125px;
+}
+.r3
+{
+    padding-left: 135px;
+}
+.r4
+{
+    padding-right: 95px;
+}
+.dlink
+{
+    text-decoration: none;
+    color: black;
+}
+.hlink
+{
+    text-decoration: none;
+    color: black;
+}
+.hps
+{
+    margin-bottom: 40px;
+}
+.dlink:hover
+{
+    text-decoration: none;
+    color: black;
+}
+.hlink:hover
+{
+    text-decoration: none;
+    color: black;
+}
+.download:hover
+{
+    transform:translateY(-6px);
+}
+.hire:hover
+{
+    transform:translateY(-6px);
+}
+.img:hover
+{
+    transform:translateY(-10px);
+}
+.am:hover
+{
+    transform:translateY(-10px);
+}
+.ps:hover
+{
+    transform:translateY(-10px);
+}
+.zi2:hover
+{
+    transform:translateY(-3px);
+    color: black;
+}
+.zii2:hover
+{
+    color: black;
+}
